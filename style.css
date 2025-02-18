@@ -15,9 +15,6 @@
 li {
     list-style: none;
 
-    .pearent-tag {
-        position: relative;
-    }
     
     a {
         display: block;
@@ -41,9 +38,6 @@ li {
 
     .child-tag {
         background-color: rgb(255, 72, 0);
-        position: absolute;
-        top: 100%;
-        left: 0;
     }
 }
 
